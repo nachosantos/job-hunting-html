@@ -8,25 +8,21 @@ p {
 }
 
 a {
-  color: #121A1A;
+  color: #121a1a;
   text-decoration: none;
-}
-
-.sy-box {
-  margin-top: 1.625rem;
-  height: 25.125rem;
-  border-top: .0625rem solid #121A1A;
-  border-bottom: .0625rem solid #121A1A;
-}
-
-.sy-slides-wrap {
-  overflow: hidden;
-  width: 100%;
 }
 
 .MainPicture {
   padding-top: 1.25rem;
   text-align: center;
+}
+
+.sy-box {
+  margin-top: 2.5rem;
+}
+
+.pictures-slider {
+  height: 21.25rem;
 }
 
 .rrss {
@@ -35,16 +31,16 @@ a {
 }
 
 .rrss img {
-  margin-right: .7125rem;
+  margin-right: 0.7125rem;
 }
 
 .rrss a {
   text-decoration: none;
-  color: #121A1A;
+  color: #121a1a;
 }
 
 .Data {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-weight: 700;
   margin-bottom: 2.1625rem;
   text-align: center;
@@ -56,18 +52,18 @@ a {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  margin-top: .8625rem;
+  margin-top: 0.8625rem;
 }
 
 .btns a {
   color: beige;
   font-size: large;
-  padding: .925rem;
+  padding: 0.925rem;
 }
 
 .tarjetas {
   margin-top: 3.125rem;
-  margin-bottom: 2.50rem;
+  margin-bottom: 2.5rem;
 }
 
 .tarjetas img {
@@ -82,12 +78,12 @@ a {
   font-size: x-small;
   text-align: left;
   padding: 1.25rem;
-  border: 1px solid #121A1A;
+  border: 1px solid #121a1a;
   border-radius: 1rem;
 }
 
 .tarjetas .btn {
-  background-color: #121A1A;
+  background-color: #121a1a;
 }
 
 .footer {
@@ -111,11 +107,11 @@ a {
 }
 
 .gracias a {
-  color: #121A1A;
+  color: #121a1a;
 }
 
 .gracias a:hover {
-  color: #121A1A;
+  color: #121a1a;
   text-decoration: underline;
 }
 
