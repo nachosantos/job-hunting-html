@@ -63,7 +63,7 @@ a {
 // Clase nueva para las card de BS les doy margen, y las imagenes las coloco a mi antojo
 .tarjetas {
   margin-top: 3.125rem;
-  margin-bottom: 14.5rem;
+  margin-bottom: 3.5rem;
 
   img {
     width: 30%;
@@ -85,6 +85,7 @@ a {
 // Sencillo footer con mi página y los agradecimientos, que parece que no, pero son muchos
 .footer {
   text-align: center;
+  margin-top: 8.5rem;
 }
 // Esto configura la página agradecimientos.html sus titulos, listas y enlaces
 .gracias {

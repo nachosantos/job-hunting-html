@@ -63,7 +63,7 @@ a {
 
 .tarjetas {
   margin-top: 3.125rem;
-  margin-bottom: 14.5rem;
+  margin-bottom: 3.5rem;
 }
 
 .tarjetas img {
@@ -89,6 +89,7 @@ a {
 
 .footer {
   text-align: center;
+  margin-top: 8.5rem;
 }
 
 .gracias {
