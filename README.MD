@@ -2,8 +2,8 @@
 Sitio diseñado para la busqueda de empleo.
 
 ## Contenido
-- Eencilla web
-- Slide de imagenes
+- Sencilla web
+- Slide de imagenes (activado captions para poner información)
 - Enlaces a RRSS profesionales y personales
 - Descarga de CV 
 - Responsive
