@@ -31,14 +31,11 @@ a {
 
 .rrss {
   width: 100%;
-}
-
-.rrss ul {
-  width: 100%;
+  text-align: center;
 }
 
 .rrss img {
-  margin-right: .8125rem;
+  margin-right: .7125rem;
 }
 
 .rrss a {
