@@ -20,6 +20,5 @@ https://opensource.org/osd
 
 
 ## Preview
-![](images/preview.png)
 ![](images/previw.mobile.png)
 
