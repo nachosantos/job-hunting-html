@@ -14,9 +14,8 @@ Sitio diseñado para la busqueda de empleo.
 Si quieres comprobar como queda el proyecto puedes hacerlo en  [Demostración](https://nachosan.com/job-hunting-html)
 
 ## Licencia
-Bajo Licencia Open Source Initiative
-https://opensource.org/osd
-
+Bajo Licencia Creative Commons
+[Licencia Creative Commons Atribución 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/)
 
 
 ## Preview
